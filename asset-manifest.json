@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/snk/static/css/main.cec60839.chunk.css",
+    "main.js": "/snk/static/js/main.fa42cc80.chunk.js",
+    "main.js.map": "/snk/static/js/main.fa42cc80.chunk.js.map",
+    "runtime-main.js": "/snk/static/js/runtime-main.f1069a09.js",
+    "runtime-main.js.map": "/snk/static/js/runtime-main.f1069a09.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/snk/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee9640b4.chunk.js": "/snk/static/js/2.ee9640b4.chunk.js",
+    "static/js/2.ee9640b4.chunk.js.map": "/snk/static/js/2.ee9640b4.chunk.js.map",
+    "static/js/3.a402cee5.chunk.js": "/snk/static/js/3.a402cee5.chunk.js",
+    "static/js/3.a402cee5.chunk.js.map": "/snk/static/js/3.a402cee5.chunk.js.map",
+    "index.html": "/snk/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/snk/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.cec60839.chunk.css.map": "/snk/static/css/main.cec60839.chunk.css.map",
+    "static/js/2.ee9640b4.chunk.js.LICENSE.txt": "/snk/static/js/2.ee9640b4.chunk.js.LICENSE.txt",
+    "static/media/Kanit-bold.7aaa53c2.ttf": "/snk/static/media/Kanit-bold.7aaa53c2.ttf",
+    "static/media/Kanit-regular.6e70a0fe.ttf": "/snk/static/media/Kanit-regular.6e70a0fe.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1069a09.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee9640b4.chunk.js",
+    "static/css/main.cec60839.chunk.css",
+    "static/js/main.fa42cc80.chunk.js"
+  ]
+}
